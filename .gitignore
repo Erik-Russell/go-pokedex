@@ -1,0 +1,10 @@
+# generic executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build output
+/go-pokedex
+
